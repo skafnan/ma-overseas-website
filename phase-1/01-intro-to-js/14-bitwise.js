@@ -1,0 +1,5 @@
+// console.log(10&5)
+// console.log(11&6)
+// console.log(~5)
+// console.log(0.1+0.2)
+// console.log(0.1+0.2+0.3)
