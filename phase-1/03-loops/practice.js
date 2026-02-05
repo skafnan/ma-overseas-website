@@ -424,6 +424,213 @@
 
 
 
+// let arr1 = ['afnan', 23, 'aiman',  'heamanth']
+// console.log(arr1)
+
+// console.log(arr1[1])
+// console.log(arr1[2])
+
+//  let arr2 = ['akhi', 65, 'lobe',  'jd']
+// let arr3 = [arr1 , arr2]
+// console.log(arr3)
+
+// arr2[1] =  ['adnan']
+// console.log(arr2)
+
+// console.log(arr1.index) 
+// console.log(arr1.length-1)
+
+// let student = ['Afnan', 'alex' , [80, 90, 85],[70,5,89]];
+
+
+// console.log(student[1][1])
+// student [1][2]= 80
+// console.log(student)
+// student[3][2]= 99
+// console.log(student[2].length)
+
+
+
+
+// let age = 16
+// if (age <=18) {
+//     console.log('you can drive')
+// }
+// else {
+//     console.log('you cannot drive')
+// }
+// let temperature = 35
+// if (temperature>30){
+//     console.log('it is hot')
+// }
+
+
+
+
+
+
+// let age = 16
+// if (age>=18){
+//     console.log("you can drive")
+// }
+
+
+
+
+
+// let num = 0
+
+// if (num) {
+//     console.log('Number exists')
+// }
+
+// console.log('End of code')
+
+
+// let username = "admin"
+
+// if (username) {
+//     console.log('Welcome ' + username)
+// }
+
+// console.log('Rest of the code')
+
+// Q5. Create a variable score with value 95. Use an if statement to print "Excellent!" if score is greater than or equal to 90
+
+// let score = 95
+
+// if (score>= 90) {
+//     console.log('excellent')
+// }
+
+// let price = 100
+
+// if (price >= 50) {
+//     console.log('Expensive item')
+// }
+
+
+// Create a variable isRaining with value true. Use an if statement to print "Take an umbrella" only if it's raining.
+
+// let israining = true
+// if ('its raining'){
+//     console.log('take an umbrella')
+// }
+
+
+// Create a variable marks with value 85. Use an if statement to print "Pass" if marks is 40 or more.
+
+// let marks = 85
+// if (marks>=40){
+//     console.log('pass')
+// }
+
+// let num = 50
+
+// if (num > 30) 
+//     console.log('Greater than 30')
+//     console.log('This is a big number')
+
+// console.log('Done')
+
+// Q11. Create a variable age with value 15. Use if...else to print "Adult" if age is 18 or more, otherwise print "Minor".
+
+// let age = 15
+
+// if (age>= 18){
+//     console.log('adult')
+
+// }
+// else{
+//     console.log('minor')
+// }
+
+
+// Create a variable number with value 8. Use if...else to print "Even" or "Odd".
+
+// let number = 8
+
+// if (number/2){
+//         console.log('its an even number')
+
+// }
+// else {
+//     console.log('its an odd nuber')
+// }
+
+
+// let username = 'omer'
+
+// if (username == 'admin') {
+//     console.log('Hello admin')
+// } else {
+//     console.log('Hello user')
+// }
+
+
+// Q15. Create a variable password with value "pass123". Check if password equals "admin123". Print "Login successful" or "Wrong password".
+
+// let password = "pass123"
+
+// if (password='admin123'){
+//     console.log('login sucessful')
+// }
+// else{
+//     console.log('wrong password')
+// }
+// Q17. Create two variables: a = 10 and b = 20. Use if...else to print which number is larger.
+
+// let a =10
+// let b = 20
+
+// if (a>b){
+//     console.log('a is bigger than b')
+// }
+// else {
+//     console.log('b is greater than a')
+// }
+
+
+// Create a variable marks with value 75. Use if...else if...else to print:
+
+// Create a variable marks with value 75. Use if...else if...else to print:
+
+// "A Grade" if marks >= 90
+// "B Grade" if marks >= 70
+// "C Grade" if marks >= 50
+// "Fail" otherwise
+// Create a variable marks with value 75. Use if...else if...else to print:
+// Create a variable marks with value 75. Use if...else if...else to print:
+
+// "A Grade" if marks >= 90
+// "B Grade" if marks >= 70
+// "C Grade" if marks >= 50
+// "Fail" otherwise
+// Create a variable marks with value 75. Use if...else if...else to print:
+
+// "A Grade" if marks >= 90
+// "B Grade" if marks >= 70
+// "C Grade" if marks >= 50
+// "Fail" otherwise
+
+// let marks = 75
+// if (marks>=90){
+//     console.log("A grade")
+// }
+// else{
+// console.log("fail")}
+// if (marks>=70){
+//     console.log("B grade")
+// }
+// else {
+//     console.log("fail")
+// }
+// if (marks>=50){
+//     console.log('c grade')
+// }
+// else {
+//     console.log('fail')
+// }
 
 
 
@@ -445,6 +652,111 @@
 
 
 
+
+// Create a variable marks with value 75. Use if...else if...else to print:
+
+// "A Grade" if marks >= 90
+// "B Grade" if marks >= 70
+// "C Grade" if marks >= 50
+// "Fail" otherwise
+// Create a variable marks with value 75. Use if...else if...else to print:
+
+// let marks = 75
+
+// if (marks>=90){
+//     console.log("a grade")
+// }
+// else if (marks>=70){
+//     console.log('b grade')
+// }
+// else if (marks>=50){
+//     console.log('c grade')
+// }
+// else {
+//     console.log('fail')
+// }
+
+// Create a variable age with value 35. Print:
+
+// "Child" if age < 13
+// "Teenager" if age < 20
+// "Adult" if age < 60
+// "Senior" otherwise
+// let age = 35
+// if (age<13){
+//     console.log('child ')
+// }
+// else if (age<20) {
+//     console.log("teen")
+// }
+// else if (age <60){
+// console.log('adult')
+// }
+// else {
+//     console.log("senior")
+// }
+
+
+
+// Q27. Create a variable score with value 0. Use if...else if...else to check:
+
+// If score is exactly 0, print "No score yet"
+// If score < 50, print "Fail"
+// If score < 75, print "Pass"
+// Otherwise print "Excellent"
+// Your Code:
+
+// let score = 0
+// if (score = 0){
+//     console.log('no score  today')
+// }
+// else if 
+//     (score<50){
+//  console.log('fail')
+
+// }
+// else if (score<75){
+// console.log('pass')
+// }
+// else {
+//     console.log('excellent')
+// }
+
+
+
+// 30. Create a BMI category checker:
+
+// Variable bmi = 22
+// If bmi < 18.5: "Underweight"
+// If bmi < 25: "Normal"
+// If bmi < 30: "Overweight"
+// Otherwise: "Obese
+// 
+// let bmi=22
+// if (bmi<18.5){
+//     console.log("underweight")
+// }
+// else if (bmi<25){
+//     console.log('normal')
+// }
+// else if (bmi<30){
+//     console.log("overweught")
+// }
+// else {
+//     console.log('obese')
+// }
+
+let a = 20
+let b = 50
+let max
+
+if (a > b) {
+    max = a
+} else {
+    max = b
+}
+
+console.log(`Max value is: ${80}`)
 
 
 

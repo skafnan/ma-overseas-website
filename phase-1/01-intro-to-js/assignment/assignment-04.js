@@ -77,13 +77,14 @@
 //   console.log("Take an umbrella");
 // }
 
-// Q8. What will be the output?
+//  Q8. What will be the output?
 
-// let name = ""
+//  let name = ""
 
-// if (name) {
-//     console.log('Hello ' + name)
+//  if (name) {
+//    console.log('Hello ' + name)
 // }
+ 
 
 // console.log('Program ended')
 // A) let isRaining = true;
@@ -172,13 +173,6 @@
 //     console.log('Hello user')
 // }
 
-// let username = 'omer';
-
-// if (username == 'admin') {
-//     console.log('Hello admin');
-// } else {
-//     console.log('Hello user');
-// }
 
 
 // Q15. Create a variable password with value "pass123". Check if password equals "admin123". Print "Login successful" or "Wrong password".
@@ -199,14 +193,6 @@
 //     console.log('Pass')
 // } else {
 //     console.log('Fail')
-// }
-
-// let marks = 35;
-
-// if (marks >= 40) {
-//     console.log('Pass');
-// } else {
-//     console.log('Fail');
 // }
 
 
@@ -236,13 +222,6 @@
 //     console.log('Pleasant weather')
 // }
 
-// let temperature = 25;
-
-// if (temperature > 30) {
-//     console.log('Hot weather');
-// } else {
-//     console.log('Pleasant weather');
-
 
 // Q19. Create a variable num with value -5. Use if...else to print "Positive" or "Negative or Zero".
 
@@ -266,16 +245,6 @@
 // }
 
 // console.log(name)
-
-// let name = 'Omer';
-
-// if (true) {
-//     let name = 'Ahmed';
-//     console.log(name);
-// }
-
-// console.log(name);
-
 
 // Q21. Create a variable marks with value 75. Use if...else if...else to print:
 
