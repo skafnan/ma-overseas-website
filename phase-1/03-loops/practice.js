@@ -746,34 +746,619 @@
 //     console.log('obese')
 // }
 
-let a = 20
-let b = 50
-let max
+// let a = 20
+// let b = 50
+// let max
 
-if (a > b) {
-    max = a
-} else {
-    max = b
+// if (a > b) {
+//     max = a
+// } else {
+//     max = b
+// }
+
+// console.log(`Max value is: ${80}`)
+
+
+// let person = {
+//     name : "afnan",
+//     age : 18,
+//     login : false,
+//     gender : 'male'
+
+
+// }
+
+// console.log(person)
+// console.log(person.login)
+
+// function what(){
+//     console.log('nothing')
+// }
+
+// what()
+
+// function name (  ){
+//     console.log ('afnan')
+// }
+// name ()
+
+
+
+// function greet (name){
+// console.log("hello"+  name)
+
+// }
+
+// greet (" afnan")
+
+
+
+
+
+// function make (cake){
+//      console.log("i will eat" )
+
+
+// }
+
+// make ("the cake")
+
+
+
+
+// function add (a,b){
+
+// a=8
+// b= 9
+// console.log(a*b)
+// console.log(a+b)
+
+// }
+
+// add()
+ 
+
+
+// function greet (name){
+
+// console.log("my name is" + name)
+
+
+// }
+
+// greet(" afnan")
+
+
+
+
+// function call (){
+//     console.log('gonna call now')
+// }
+
+// call();
+
+// call()
+
+// let name = 'afnan'
+// console.log(name)
+
+// call()
+
+
+// function greet (name){
+
+//     console.log("afnan")
+    
+
+
+
+// }
+
+// greet()
+ 
+// function printmessege () {
+
+//     console.log('javascript is awesome')
+//     console.log('javascript is awesome')
+//     console.log('javascript is awesome')
+
+// }
+ 
+// printmessege()
+
+
+// function multiply (){
+
+//     let a = 8
+//     let b = 9
+
+//     return (a*b)
+// }
+//  let c = multiply()
+
+
+
+// function multiply (a,b){
+
+//     console.log(a*b)
+
+
+// }
+
+// multiply (5,4)
+// multiply (10,3)
+// multiply (7,8)
+
+
+
+// function printeven () {
+
+
+// }
+
+// function greet (  name){
+//   console.log(' hello' + name)
+
+// }
+
+// greet (' afnan')
+ 
+
+// function add (c,f){
+
+//     console.log(c+f)
+// }
+
+// add(8,8)
+// add(8,8)
+// add(8,8)
+// add(8,8)
+
+// let printeven = function (max)
+
+
+
+// function add (a,b){
+
+// return (a+b)
+
+// }
+
+// let result = add (5,6)
+
+// console.log (result)
+
+
+
+
+// function multiply (a,b,c){
+//        return (a*b*c)
+
+
+// }
+
+// let chickenprice = multiply (8,9,6)
+// console.log(chickenprice)
+
+
+
+// function afnan (){
+
+//     console.log('hello world')
+// }
+
+// afnan ()
+
+
+// function afnan (a,k){
+
+// //   console.log(a-k)
+//  return (a-k)
+// }
+
+// // afnan(4,9)
+ 
+// let h = afnan(4,9)
+// console.log(h)
+// console.log(h)
+// console.log(h)
+// console.log(h)
+
+
+
+
+
+
+
+
+
+
+
+
+
+// let student = {
+
+//     name : "afnan",
+//     class : "5",
+//     language : 'eng',
+//     age : 18
+
+// }
+
+// console.log(student.name)
+// console.log(student.class)
+// console.log(student.age)
+
+
+
+
+
+// let bike = {
+
+//     a : "ninja",
+//     b : 'kawasaki',
+//     c : 'rider',
+
+// }
+
+// console.log(bike.a)
+
+// function want (money){
+//  console.log(" i want " + money )
+
+// }
+
+// want (800)
+
+
+
+// let user = {
+
+//    name : "afnan" ,
+//    age : 21
+// }
+
+// function detalis (obj){
+// // console.log(obj.name)
+
+// }
+
+// details(user)
+
+
+
+
+
+// let user = {
+//   name: "Afnan",
+//   age: 22
+// };
+
+// function showName(obj) {
+//   console.log(obj.name);
+// }
+
+// showName(user);
+
+
+
+
+
+
+// let student ={
+//     name : 'afnan',
+//     age : 23
+
+
+// }
+
+// function showName ( obj){
+//      console.log(obj.age)
+
+// }
+// showName(student)
+
+
+// let bike = {
+// bike1 : "ninja",
+// bike2 : "kawasaki"
+
+// }
+
+// function buy (price){
+//     console.log(price.bike1)
+// }
+
+// let b = buy
+
+// function money (a,b){
+//     console.log(a+b)
+//     return (a+b)
+// }
+
+// money (11,65)
+// let q = money (11,65)
+
+// console.log(q)
+// console.log(q)
+// console.log(q)
+
+
+
+
+
+// let friends ={
+//   friend1 :"ash",
+//   friend2 : 'nad',
+//   friend3 : 'kal'
+
+
+// }
+
+// function call (bunk){
+
+//     console.log(bunk.friend3)
+// }
+// call(friends)
+
+//  if (true) {
+
+//  }
+
+
+// let a = 10
+// console.log(a)
+
+
+
+// function add (a,b){
+//     console.log(a+b)
+//     return a+b
+
+// }
+
+// add (2,3)
+// let sum = add(2,3)
+// console.log(sum)
+
+
+
+
+
+// let student ={
+//    name : "afnan"                              let student = {
+//   name: "afnan"
+// }
+
+// function what(naam) {
+//   console.log(naam.name)
+//   return naam
+// }
+
+// let shaik = what(student)
+
+// console.log(shaik.name)
+
+// }
+//  function what (naam){
+//     console.log(student.name)
+//    return (naam)}
+
+//  what(student)
+
+//  let shaik = what(student)
+// let student ={
+//    name : "afnan"
+
+// }
+//  function what (naam){
+//     console.log(student.name)
+//    return (naam)}
+
+//  what(student)
+
+//  let shaik = what(student)
+
+//  console.log(shaik)
+//  console.log(shaik)
+
+//  shaik
+// shaik
+
+
+
+// let student = {
+//   name: "afnan"
+// }
+
+// function what(naam) {
+//   console.log(naam.name)
+//   return naam
+// }
+
+// let shaik = what(student)
+
+// console.log(shaik.name)
+
+
+
+
+
+
+// let toy = {
+
+//    firsttoy :'buzz'
+
+
+// }
+
+// function buy (now){
+
+//  console.log(now.firsttoy)
+//  return(now)
+// }
+
+// buy(toy)
+
+
+
+
+
+
+
+
+
+
+// let student ={
+//     name : 'shaik afnan',
+//     age : 23,
+//     marks : 100
+// }
+ 
+// function marks (add){
+//    add.marks = add + 20
+
+// }
+//  marks(student)
+
+// console.log(add.marks)
+
+
+
+
+// let student ={
+//     marks : 60
+// }
+
+// function add (result){
+
+//     // console.log(result.marks)
+
+//     return result
+// }
+
+// add(student)
+
+// let report = add(student)
+
+// console.log (report)
+
+
+// for (let i = 0; i<= 10; i++) {
+//     console.log(i)
+    
+// }
+
+
+
+
+// for (let i=1; i<=3; i++ ){
+//     console.log("shaik afnan");
+// }
+
+
+
+// let fruits = ["apple","banana","mango"]
+
+// for (let index = 0; index < fruits.length; index++) {
+
+//     if (index== 1) {
+        
+//         continue
+//     }
+//     console.log(fruits[index])
+    
+// }
+
+
+// let bikes = ["ninja", "kawasaki", "honda"]
+
+// for (let index = 0; index < bikes.length; index++) {
+//     console.log(`let mee see the bikes: ${bikes[index]}`)
+    
+// }
+
+
+
+// let animals = ['tiger', 'lion', 'cuba',  'dino', 'alpha', 'rhino']
+
+// for (let i =0; i<animals.length; i++){
+
+// console.log(animals[i])
+
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+//  let students = ['afnan', 'ash' ,'nad', 'aff']
+
+//  for (let i = 1; i<students.length; i++)
+//     console.log(students[i])
+
+
+
+// let alphabets = ['a', 'b' , 'c' ,'d']
+
+// for (let i =0; i<alphabets.length; i++){
+
+// console.log(`print all the numbers :${alphabets[i]}`)
+
+// }
+
+
+
+
+
+
+// let singers = ['arijit','atif','neha', 'kk', 'yoyo']
+
+// for(let i=0 ; i<singers.length; i++){
+//    if
+//     (i==2){
+//     break
+//    }
+// console.log(singers[i])
+// }
+
+
+// let singers = ['arijit','atif','neha', 'kk', 'yoyo']
+
+// for(let i=0 ; i<singers.length; i++){
+//    if
+//     (i==2){
+//     continue
+//    }
+// console.log(singers[i])
+// }
+
+
+
+// let i =0
+// let max = 10
+// while 
+//     (i<=max ){
+//     i+=2
+//     console.log(`the numbers are ${i}`)
+// }
+
+let students = ["sonu", "afnan"]
+
+let i =0
+
+while (i<students.length){
+
+    console.log(students[i])
+    i++
+ 
+
 }
-
-console.log(`Max value is: ${80}`)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

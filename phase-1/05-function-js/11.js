@@ -32,6 +32,3 @@
 
 
 
-let array = [1,2 , 5,0]
-
-console.log(array[0])
