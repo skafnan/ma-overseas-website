@@ -1,0 +1,22 @@
+[
+    {
+        "name": "afnan",
+        "age": 23,
+        "city": "hyderabad"
+    },
+    {
+        "name": "ali",
+        "age": 25,
+        "city": "towlichoki"
+    },
+    {
+        "name": "anwar",
+        "age": 23,
+        "city": "uppal"
+    },
+    {
+        "name": "adnan",
+        "age": "25",
+        "city": "ja"
+    }
+]
