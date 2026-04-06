@@ -6,7 +6,7 @@
 
 body {
     background-color: rgb(15, 15, 15);
-    color: white;
+    color: lavenderblush;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -14,7 +14,7 @@ body {
 }
 
 #container {
-    background-color: rgb(36, 36, 36);
+    background-color: rgb(125, 62, 62);
     padding: 20px;
     border-radius: 10px;
     width: 400px;
