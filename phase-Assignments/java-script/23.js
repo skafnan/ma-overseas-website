@@ -15,6 +15,3 @@ function isPrime(num) {
   return true;
 }
 
-// examples
-console.log(isPrime(7));   // true
-console.log(isPrime(10));  // false
