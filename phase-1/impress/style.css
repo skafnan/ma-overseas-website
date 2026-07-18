@@ -1,0 +1,91 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to right, #ff758c, #ff7eb3);
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Main card */
+.container {
+  text-align: center;
+  background: white;
+  padding: 30px;
+  border-radius: 20px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+  z-index: 2;
+}
+
+h1 {
+  color: #ff4d6d;
+}
+
+button {
+  padding: 12px 25px;
+  border: none;
+  background: #ff4d6d;
+  color: white;
+  border-radius: 12px;
+  cursor: pointer;
+  margin-top: 15px;
+  font-size: 16px;
+}
+
+button:hover {
+  background: #e63950;
+}
+
+#reason {
+  margin-top: 20px;
+  font-size: 18px;
+  color: #333;
+}
+
+#final {
+  margin-top: 15px;
+  font-weight: bold;
+  color: #ff4d6d;
+}
+
+/* ❤️ Hearts (already there) */
+.heart {
+  position: absolute;
+  color: red;
+  font-size: 20px;
+  animation: float 5s linear infinite;
+}
+
+@keyframes float {
+  0% {
+    transform: translateY(100vh);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(-10vh);
+    opacity: 0;
+  }
+}
+
+/* 🦋 Butterflies */
+.butterfly {
+  position: absolute;
+  font-size: 24px;
+  animation: fly 6s linear infinite;
+}
+
+@keyframes fly {
+  0% {
+    transform: translateY(100vh) translateX(0);
+    opacity: 1;
+  }
+  50% {
+    transform: translateY(50vh) translateX(50px);
+  }
+  100% {
+    transform: translateY(-10vh) translateX(-50px);
+    opacity: 0;
+  }
+}
